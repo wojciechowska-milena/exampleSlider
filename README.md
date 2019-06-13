@@ -2,7 +2,7 @@
 
 site with moving slider
 
-all images are from pixabay.com
+all images are from pexels.com
 
 ---
 
